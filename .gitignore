@@ -1,0 +1,10 @@
+# Expo related
+node_modules
+.expo
+.cache
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
