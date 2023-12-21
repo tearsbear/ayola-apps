@@ -2,6 +2,9 @@
 
 Ayola Apps Test
 
+* important notes
+the OTP code is 1111
+
 ![Preview](https://i.imgur.com/0uPDErc.png)
 
 ### The Design
